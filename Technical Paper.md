@@ -21,8 +21,7 @@ Using a CDN offers several benefits:
 * Safeguards data from hackers
 
 ## Data Security - How Does a CDN Protect Data?
-Information security is an important part of a CDN. A CDN helps keep websites secure by using updated TLS and SSL certificates. These certificates ensure strong authentication, encryption, and data integrity. CDNs also help reduce security risks by filtering harmful traffic and protecting the origin server from direct attacks.
-
+Information security is integral to a CDN. A CDN can keep a site secured with fresh TLS/SSL certificates, which will ensure a high standard of authentication, encryption, and integrity. Investigate the security concerns surrounding CDNs, and explore what can be done to securely deliver content.
 ## Use Cases of CDN
 CDNs have many real-world applications:
 * Video streaming and entertainment websites
@@ -36,4 +35,3 @@ Content Delivery Networks are a crucial part of today’s internet. By spreading
 ## References
 * https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 * https://developer.mozilla.org/en-US/docs/Glossary/CDN
-* https://aws.amazon.com/cloudfront/what-is-cdn/
