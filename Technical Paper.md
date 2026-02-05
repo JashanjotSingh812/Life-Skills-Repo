@@ -35,6 +35,5 @@ Content Delivery Networks are a crucial part of today’s internet. By spreading
 
 ## References
 * https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
-* https://www.akamai.com/solutions/content-delivery-network
 * https://developer.mozilla.org/en-US/docs/Glossary/CDN
 * https://aws.amazon.com/cloudfront/what-is-cdn/
